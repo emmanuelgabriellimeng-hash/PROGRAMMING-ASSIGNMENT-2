@@ -48,7 +48,7 @@ X_normalized = (X - X.mean()) / X.std()
 np.save("X_normalized.npy", X_normalized)
 ```  
 
-5. Print the Original ndarray, mean, standard deviation, and the normalized ndarray.  
+5. Print the original ndarray, mean, standard deviation, and the normalized ndarray.  
 ```python
 print("Original ndarray:\n", X)                      
 print("\nMean:", X.mean(), "\tStd Dev:", X.std())
