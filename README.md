@@ -3,9 +3,12 @@
 This assignment explores the basics of **NumPy** on array manipulation in Python. The program features random array generation, normalization, reshaping, logical indexing, and saving data into `.npy` files.  
 
 ## Directory
-### Normalization Problem:  
+### Normalization Problem: 
+- https://github.com/emmanuelgabriellimeng-hash/PROGRAMMING-ASSIGNMENT-2/blob/main/README.md#normalization-problem-1
 ### Divisible by 3 Problem:  
+- https://github.com/emmanuelgabriellimeng-hash/PROGRAMMING-ASSIGNMENT-2/blob/main/README.md#divisible-by-3-problem-1
 ### Program Link:
+- https://github.com/emmanuelgabriellimeng-hash/PROGRAMMING-ASSIGNMENT-2/blob/main/LIM_2ECEB_Experiment_2.ipynb
 ---
 
 ## Normalization Problem  
